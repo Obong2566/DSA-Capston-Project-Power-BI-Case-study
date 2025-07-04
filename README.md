@@ -13,4 +13,14 @@ HR data and come up with recommendations for management’s attention.
 ## Analysis Tool
     Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
-## Outcome of Analysis
+### Areas to pay attention to;
+
+      . Analyse the company data and generate insights that the Palmoria management
+        team would need to address
+      . My analysis should be visualised using appropriate charts
+      . Focus on gender-related issues within the organization and its
+        regions, by assigning a generic gender status to these employees
+      . Take those employees who are no longer with the company
+      . Take out  “NULL”. These departments
+
+## Outcome of my Analysis
