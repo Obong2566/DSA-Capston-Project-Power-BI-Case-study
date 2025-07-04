@@ -21,4 +21,5 @@ Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products
 - Take out  “NULL”. These departments
 
 ## Outcome of my Analysis
-First of all
+First of all cleaned my data using Power BI, & then i appilied and close the cleaned data, and then use the cleaned data to provide visuals by regions, below is the result i got after.
+[Click Here](https://drive.google.com/file/d/1QWQYa-sEaHT95NfL7zbF2HGDBflkr6Et/view?usp=sharing)
