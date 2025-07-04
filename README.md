@@ -22,4 +22,4 @@ Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products
 
 ## Outcome of my Analysis
 First of all cleaned my data using Power BI, & then i appilied and close the cleaned data, and then use the cleaned data to provide visuals by regions, below is the result i got after.
-[Click Here](https://docs.google.com/spreadsheets/d/1OHt8ltceJ27XEcmDAP8NsOFjNQvJ9sta/edit?usp=sharing&ouid=104155766793079010065&rtpof=true&sd=true)
+[Click Here](https://drive.google.com/file/d/1QWQYa-sEaHT95NfL7zbF2HGDBflkr6Et/view?usp=sharing)
