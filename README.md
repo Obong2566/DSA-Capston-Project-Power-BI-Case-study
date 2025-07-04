@@ -12,3 +12,5 @@ HR data and come up with recommendations for management’s attention.
 
 ## Analysis Tool
     Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
+
+## Outcome of Analysis
