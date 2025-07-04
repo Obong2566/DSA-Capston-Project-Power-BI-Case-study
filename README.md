@@ -11,4 +11,4 @@ revealing other issues like the gender pay gap, amongst other possible issues. I
 HR data and come up with recommendations for management’s attention.
 
 ## Analysis Tool
-    Microsoft Power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+    Power BI [Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
